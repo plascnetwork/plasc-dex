@@ -1,11 +1,11 @@
 
-## Hydro Protocol for Tron
+## PLASC DEX
 
-> Hydro Protocol for Tron is an open-source framework for building decentralized exchanges on Tron.
+> PLASC DEX for Tron is an open-source framework for building decentralized exchanges on PLASC.
 
 ![](./images/hydro_small.jpg)
 
-Hydro is designed for developers looking to build decentralized exchanges without having to deal with the complexity and expense of designing, deploying, and securing their own smart contracts.
+PLASC is designed for developers looking to build decentralized exchanges without having to deal with the complexity and expense of designing, deploying, and securing their own smart contracts.
 
 ## License
 
